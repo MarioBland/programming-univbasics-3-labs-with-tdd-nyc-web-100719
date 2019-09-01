@@ -1,2 +1,4 @@
 first_number = 12
-second_nuber = 25 
+second_number = 25 
+
+sum = first_number + second_number
